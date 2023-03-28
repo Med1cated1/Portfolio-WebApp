@@ -26,12 +26,13 @@ body {
 }
 
 .icon {
+    text-align:center;
     vertical-align: -.125em;
     fill: #000000;
     padding: 2px;
     font-size: 2rem;
-    width: 6rem;
-    height: 6rem;
+    width: 4rem;
+    height: 4rem;
     color: #000000;
 }
 
